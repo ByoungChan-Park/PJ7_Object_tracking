@@ -8,7 +8,7 @@
     images : README 첨부 사진
 
 #### 추가 파일
-    dnn_model : 사전학습모델<br>
+    dnn_model : 사전학습모델_(용량제한으로 별도 다운로드)
     https://drive.google.com/drive/folders/1vFzzg-qvOLWagfJ2SLfZV5bku04a0-h5?usp=share_link
 <br>
 
